@@ -1,5 +1,5 @@
 # Anonymous-Chat-Application
-
+https://github.com/hkharsharaju/Anonymous-Chat-Application/assets/138602401/f1439c6c-8753-4e2a-b1e2-b69828133079
 
 The **Anonymous Chat Application** is designed to provide a secure and user-friendly platform where individuals can connect and communicate freely without fear of judgment or repercussion. By prioritizing anonymity, real-time communication, and user experience, our goal is to foster a supportive and inclusive community where users from all walks of life can share ideas, seek support, and build meaningful connections.
 
